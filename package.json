@@ -1,0 +1,27 @@
+{
+  "name": "google-charts",
+  "version": "1.0.0",
+  "description": "google charts and typescript api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sblack4/google-charts.git"
+  },
+  "keywords": [
+    "google",
+    "charts",
+    "typescript",
+    "ts",
+    "javascript",
+    "js"
+  ],
+  "author": "Steven Black",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sblack4/google-charts/issues"
+  },
+  "homepage": "https://github.com/sblack4/google-charts#readme"
+}
